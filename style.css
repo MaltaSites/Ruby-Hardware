@@ -1,0 +1,7 @@
+
+:root {
+  --color-bg: #FAF9F6;
+  --color-text: #1C1B1A;
+}
+body { background: var(--color-bg); color: var(--color-text); font-family: 'General Sans', sans-serif; }
+.container { max-width: 1200px; margin: 0 auto; padding: 1rem; }
